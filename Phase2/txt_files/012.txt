@@ -1,0 +1,8 @@
+industrial - 1.61
+robot - 2.56
+store - 2.29
+!! - 4.7
+** - 1.13
+quote - 3.54
+price - 2.04
+system - 0.95

@@ -1,0 +1,14 @@
+accessories - 1.45
+cigar - 3.42
+club - 1.21
+month - 3.03
+cigars - 3.07
+smoking - 1.64
+premium - 1.27
+enjoy - 1.21
+exciting - 1.63
+receive - 0.86
+information - 0.43
+special - 0.79
+enjoying - 1.63
+pleasures - 1.63

@@ -1,0 +1,13 @@
+#### - 0.78
+ypf - 1.28
+el - 0.78
+una - 0.9
+de - 1.42
+estaciones - 1.36
+servicio - 2.01
+en - 0.92
+las - 0.9
+que - 1.49
+sus - 1.02
+un - 0.76
+aceite - 1.52

@@ -1,0 +1,16 @@
+**lancaster - 1.18
+county - 1.0
+solid - 2.13
+waste - 2.68
+management - 1.12
+authority - 1.04
+lancaster - 1.58
+available - 0.59
+environmental - 1.09
+service - 0.77
+web - 1.56
+waste** - 1.43
+protection - 0.73
+pringle - 1.43
+lcswma - 1.27
+site - 0.81

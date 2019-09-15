@@ -1,0 +1,14 @@
+del - 1.51
+#### - 0.94
+la - 0.94
+presion - 2.8
+de - 1.26
+motor - 1.58
+aceite - 1.28
+es - 0.78
+un - 0.65
+el - 0.66
+valor - 1.11
+minimo - 1.56
+una - 1.08
+para - 0.7

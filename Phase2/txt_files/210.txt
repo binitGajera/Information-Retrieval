@@ -1,0 +1,11 @@
+mutual - 3.89
+funds - 1.7
+rrsp - 4.94
+fund - 1.36
+return - 1.16
+investments - 1.92
+earn - 3.01
+profit - 1.78
+rrsp/rrif - 3.01
+term - 1.18
+deposits - 1.92

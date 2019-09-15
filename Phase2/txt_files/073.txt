@@ -1,0 +1,9 @@
+faculty - 2.89
+colleagues - 2.15
+mathematics - 2.43
+(ed) - 3.13
+(jhs) - 3.13
+department - 1.45
+ps - 3.78
+program - 0.99
+honors - 2.23

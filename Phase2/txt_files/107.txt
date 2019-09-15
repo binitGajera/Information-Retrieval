@@ -1,0 +1,5 @@
+frame-capable - 5.05
+browser - 4.97
+netscape - 4.16
+frames - 4.49
+access - 2.66

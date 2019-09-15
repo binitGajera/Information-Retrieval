@@ -1,0 +1,14 @@
+foreign - 1.11
+currency - 2.62
+draft - 2.98
+---|--- - 0.79
+canadian - 1.1
+money - 1.73
+bank - 0.81
+**t** - 1.44
+purchase - 1.3
+service - 0.66
+surrey - 1.36
+metro - 1.44
+savings - 1.25
+cash - 1.25

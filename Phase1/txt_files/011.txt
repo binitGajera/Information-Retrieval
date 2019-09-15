@@ -1,0 +1,7 @@
+#
+industrial
+case-study:
+a
+water-jet
+cutting
+workcell

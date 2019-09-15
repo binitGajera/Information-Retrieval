@@ -1,0 +1,14 @@
+raco - 2.59
+biomass - 4.81
+map - 1.71
+michigan - 1.8
+data - 0.69
+imaging - 1.36
+radar - 2.15
+amount - 0.9
+directly - 0.98
+forest - 1.27
+detailed - 1.06
+techniques - 0.86
+global - 0.86
+cloud-cover - 1.63

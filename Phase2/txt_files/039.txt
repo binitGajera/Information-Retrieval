@@ -1,0 +1,13 @@
+entech - 1.68
+engineering - 1.44
+![](graphics/diamondgif) - 4.38
+---|--- - 0.98
+system - 0.58
+design - 1.45
+studies - 0.51
+audits - 1.92
+facility - 1.33
+office: - 2.17
+reading - 1.27
+pa - 2.67
+usa - 1.54

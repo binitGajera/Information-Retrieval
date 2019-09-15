@@ -1,0 +1,10 @@
+obtain - 2.13
+sir-c - 2.57
+software - 3.35
+8mm - 2.53
+tape - 2.08
+ - 0.78
+data - 1.07
+ellen - 1.07
+o'leary - 2.53
+radar - 1.38

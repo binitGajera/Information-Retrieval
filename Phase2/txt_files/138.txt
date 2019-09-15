@@ -1,0 +1,17 @@
+florence - 1.41
+art - 1.2
+international - 0.82
+students - 1.6
+isu - 2.36
+university - 0.92
+studies - 0.41
+available - 0.7
+arts - 1.18
+design - 0.83
+oisp* - 1.41
+fell - 1.27
+hall - 0.92
+308 - 1.22
+438-5365 - 1.41
+1st - 1.52
+monday - 1.33

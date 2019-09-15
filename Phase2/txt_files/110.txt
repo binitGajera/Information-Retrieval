@@ -1,0 +1,9 @@
+interpretive - 2.89
+tree - 3.11
+arbor - 2.41
+day - 1.22
+trails - 3.88
+orchards - 3.26
+provide - 1.35
+trees - 2.24
+natural - 1.61

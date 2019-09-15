@@ -1,0 +1,5 @@
+airsar - 4.78
+images - 3.49
+death - 1.91
+valley - 3.34
+cm4278 - 5.81

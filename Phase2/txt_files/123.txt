@@ -1,0 +1,11 @@
+tips - 1.7
+--- - 2.0
+worn - 2.83
+shocks - 2.3
+shock - 2.3
+struts - 2.3
+car - 2.82
+care - 1.65
+council - 1.56
+ride - 2.04
+control - 0.83

@@ -1,0 +1,15 @@
+illinois - 0.92
+university - 1.45
+research - 0.68
+office - 0.84
+institutional - 1.6
+animal - 1.44
+services - 0.77
+isu - 2.11
+faculty - 2.33
+randy - 2.72
+4120 - 1.94
+biological - 1.94
+sciences - 1.38
+community - 0.81
+representative - 1.76

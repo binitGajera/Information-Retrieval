@@ -1,0 +1,13 @@
+money - 2.45
+---|--- - 0.93
+metro - 2.35
+savings - 2.03
+canadian - 1.29
+canada - 1.72
+**t** - 1.69
+purchase - 1.52
+service - 0.77
+surrey - 1.59
+cash - 1.46
+foreign - 0.73
+currency - 1.46

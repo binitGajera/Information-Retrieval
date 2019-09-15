@@ -1,0 +1,16 @@
+variable-rate - 1.67
+metromortgage - 3.53
+---|--- - 0.76
+rate - 1.22
+prime - 0.84
+monthly - 1.11
+payment - 1.75
+fixed - 1.68
+rates - 1.75
+portion - 1.3
+applied - 1.11
+pay - 1.24
+mortgage - 2.1
+time - 0.5
+closed - 1.15
+fixed-rate - 1.67

@@ -1,0 +1,7 @@
+faculty - 3.36
+colleagues - 2.54
+philosophy - 1.59
+department - 1.72
+ps - 4.32
+program - 1.17
+honors - 2.64

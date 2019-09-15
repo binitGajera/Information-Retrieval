@@ -1,0 +1,15 @@
+directors - 1.71
+##### - 2.96
+chair - 1.88
+walter - 1.71
+cbs - 1.71
+news - 1.91
+york - 1.07
+times - 1.18
+cnn - 1.52
+nbc - 1.71
+magazine - 1.27
+john - 1.12
+abc - 1.33
+center - 0.79
+journalists - 0.92

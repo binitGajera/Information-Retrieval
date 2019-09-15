@@ -1,0 +1,11 @@
+#### - 0.97
+pipeline - 2.3
+oil - 1.21
+la - 0.97
+plata - 1.89
+petroquimica - 1.7
+sa - 3.57
+(30%) - 4.59
+del - 1.04
+transportation - 1.49
+_oil - 2.3

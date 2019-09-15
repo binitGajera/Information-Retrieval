@@ -1,0 +1,16 @@
+simulations - 1.96
+products - 0.88
+robot - 1.69
+simulation - 1.2
+calibration - 1.44
+offline - 1.44
+programming - 1.2
+**workspace - 1.75
+®** - 1.75
+software - 0.97
+![](gif/line_colgif) - 2.47
+###### - 2.53
+patent - 1.75
+application - 0.85
+9520064 - 1.75
+1996 - 0.57

@@ -1,0 +1,12 @@
+search - 1.95
+newscom - 2.26
+stories - 2.66
+complex - 0.94
+searches - 1.59
+netscape - 2.79
+apple - 3.19
+mention - 2.86
+ibm - 1.03
+microsoft - 1.76
+news - 1.05
+cnet - 1.59

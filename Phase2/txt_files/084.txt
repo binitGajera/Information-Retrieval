@@ -1,0 +1,11 @@
+![](marbargif) - 2.44
+marsh - 4.15
+creek - 3.42
+waste - 1.5
+water - 1.75
+treatment - 1.02
+plant - 2.07
+york - 1.08
+facility - 1.5
+process - 1.06
+product - 1.33

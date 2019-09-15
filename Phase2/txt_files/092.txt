@@ -1,0 +1,14 @@
+scientific - 2.25
+committee - 1.28
+antarctic - 2.54
+research - 1.06
+scar - 6.08
+cambridge - 1.15
+united - 0.49
+kingdom - 0.96
++44 - 1.25
+1223 - 1.4
+executive - 0.82
+membership - 0.78
+subsidiary - 1.25
+meetings - 1.04

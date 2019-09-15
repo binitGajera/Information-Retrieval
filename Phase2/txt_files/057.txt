@@ -1,0 +1,13 @@
+john - 1.14
+cold - 2.12
+set - 1.08
+cards - 2.77
+edge - 1.81
+subject - 1.23
+list - 1.38
+message - 1.74
+line - 1.36
+page - 1.12
+please - 1.54
+march - 1.25
+pumpkin - 2.17

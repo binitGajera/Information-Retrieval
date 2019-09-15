@@ -1,0 +1,14 @@
+receiver - 2.23
+km - 2.55
+radio - 1.44
+signals - 2.75
+global - 1.17
+earth's - 1.84
+atmosphere - 1.98
+vertical - 1.73
+temperature - 1.98
+climate - 1.34
+university - 1.19
+corporation - 1.28
+atmospheric - 1.53
+research - 0.78

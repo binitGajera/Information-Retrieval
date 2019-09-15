@@ -1,0 +1,12 @@
+industrial - 0.9
+robot - 2.23
+store - 1.29
+** - 0.64
+sc - 3.48
+series - 2.78
+light-weight - 1.99
+robots - 2.48
+class - 1.05
+nachi - 1.99
+features: - 1.99
+home - 0.8

@@ -1,0 +1,13 @@
+de - 0.98
+que - 1.11
+lubricantes - 1.22
+las - 0.84
+por - 1.18
+los - 0.77
+para - 1.08
+en - 0.86
+el - 0.51
+argentina - 1.92
+![](/images/barragif) - 1.71
+>>> - 4.98
+#### - 0.73

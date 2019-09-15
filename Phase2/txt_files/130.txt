@@ -1,0 +1,4 @@
+imagemap - 6.31
+error - 3.93
+client - 3.44
+map - 4.24

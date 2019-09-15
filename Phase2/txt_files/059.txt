@@ -1,0 +1,10 @@
+checks - 2.49
+procedures - 2.04
+ensure - 2.79
+transactions - 2.3
+executed - 2.3
+accordance - 2.49
+maintained - 3.13
+including - 0.74
+advisory - 2.07
+agreement - 1.35

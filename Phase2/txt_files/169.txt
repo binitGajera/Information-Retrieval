@@ -1,0 +1,9 @@
+scrimp - 5.26
+process - 1.41
+page - 1.49
+hull - 2.89
+article - 1.87
+ongoing - 2.68
+project - 1.71
+industry - 1.35
+boat - 2.53

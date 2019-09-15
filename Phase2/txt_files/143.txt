@@ -1,0 +1,16 @@
+england - 1.16
+university - 1.42
+isu - 2.06
+studies - 0.45
+available - 1.09
+full - 0.96
+credit - 1.37
+hours - 1.13
+hall - 1.42
+estimated - 1.35
+cost - 1.01
+oisp* - 1.56
+international - 0.64
+fell - 1.4
+308 - 1.35
+438-5365 - 1.56

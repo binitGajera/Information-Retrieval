@@ -1,0 +1,4 @@
+---|--- - 2.43
+activities - 2.66
+bible - 5.99
+answer - 4.42

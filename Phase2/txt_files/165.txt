@@ -1,0 +1,7 @@
+baron's - 2.61
+cigar - 5.32
+store - 3.44
+indians - 1.87
+indian - 3.21
+feet - 1.64
+tall - 2.1

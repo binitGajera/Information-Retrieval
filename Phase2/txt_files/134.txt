@@ -1,0 +1,17 @@
+sample - 1.52
+reports** - 1.64
+![](pdficonsmallgif) - 3.83
+list - 1.04
+composites - 1.84
+mandate - 1.84
+\- - 1.11
+quarterly - 1.84
+asset - 1.84
+weighted - 1.64
+returns - 1.52
+gross - 1.52
+management - 0.8
+fees - 1.78
+ashland - 1.64
+accounting - 1.31
+services - 0.73

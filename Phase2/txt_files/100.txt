@@ -1,0 +1,4 @@
+adaptations - 7.71
+ecological - 4.17
+climate - 3.22
+environmental - 2.87

@@ -1,0 +1,9 @@
+digital - 1.7
+copyrighted - 3.18
+**step - 3.18
+**watermark - 2.3
+image - 2.68
+watermark - 4.59
+special - 1.53
+software - 2.18
+variation - 1.89

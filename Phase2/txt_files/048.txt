@@ -1,0 +1,6 @@
+responses - 3.8
+submit - 3.05
+response - 3.08
+enter - 3.95
+board - 2.51
+page - 1.96
