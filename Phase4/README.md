@@ -4,7 +4,7 @@ Here, we would create a retreival engine that returns the top documents/document
 
 ## Approach
 
-To achieve this task, I have used the term-document matrix that we generated in the Part 3 of this project. Also, it is to be noted that as we pre-processed the complete data, I also have pre-processed the query itself with the same pre-processing method as we did for our dataset. So that if a query contains the word *the*, our engine would ignore it, since it is a part of the *stopwords.txt* file.
+To achieve this task, I have used the term-document matrix that we generated in the Part 3 of this project. Also, it is to be noted that as we pre-processed the complete data, I also have pre-processed the query itself with the same pre-processing method as we did for our dataset. So that if a query contains the word *the*, our engine would ignore it, since it is a part of the *stoplist.txt* file.
 
 I also have query weights here, which means that a user can give weight to a query term as per their convenience and how important that query is to the user. We have calculated the similarity score, which would be the end result, by taking the dot product between the query vector and the row corresponding to the document in the term-document matrix. 
 
