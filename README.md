@@ -1,6 +1,6 @@
 # Information-Retrieval
 This project performs web scraping for tokenization, clustering and different other tasks for information retrieval. There are different phases to the project which perform different tasks that are used in the last phase to achieve clustering of documents based on the relevalence.
-
+sdfsdfds
 ## Dataset
 
 The dataset of the web files is stored in the *files* folder where there are approximately 500 web files used for scraping and finding relevant details and classes based on it. The dataset is completely random so some might have different topics in common while some might have no information in common.
